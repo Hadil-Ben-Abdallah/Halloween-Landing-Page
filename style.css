@@ -242,13 +242,13 @@ nav {
     transition: all 0.3s ease;
   }
   .menu-toggle.active .bar:nth-child(1) {
-    transform: rotate(45deg) translateY(12px);
+    transform: rotate(45deg) translateY(13.5px);
   }
   .menu-toggle.active .bar:nth-child(2) {
     opacity: 0;
   }
   .menu-toggle.active .bar:nth-child(3) {
-    transform: rotate(-45deg) translateY(-12px);
+    transform: rotate(-45deg) translateY(-13.5px);
   }
   .header-content {
     position: relative;
