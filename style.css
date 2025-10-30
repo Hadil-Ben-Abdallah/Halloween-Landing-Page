@@ -242,13 +242,13 @@ nav {
     transition: all 0.3s ease;
   }
   .menu-toggle.active .bar:nth-child(1) {
-    transform: rotate(45deg) translateY(13.5px);
+    transform: rotate(45deg) translateY(13px);
   }
   .menu-toggle.active .bar:nth-child(2) {
     opacity: 0;
   }
   .menu-toggle.active .bar:nth-child(3) {
-    transform: rotate(-45deg) translateY(-13.5px);
+    transform: rotate(-45deg) translateY(-13px);
   }
   .header-content {
     position: relative;
@@ -258,15 +258,16 @@ nav {
     top: 100%;
     left: 0;
     width: 100%;
+    max-width: 100vw;
     height: auto;
-    background: #000015;
+    background: #000015f6;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 24px;
     padding: 40px 0;
-    transform: translateX(200%);
+    transform: translateX(100%);
     opacity: 0;
     visibility: hidden;
     transition: all 0.5s ease;
@@ -276,6 +277,10 @@ nav {
     transform: translateY(0);
     opacity: 1;
     visibility: visible;
+  }
+  /* A bug to fix */
+  html {
+    overflow-x: hidden;
   }
   .nav-btn {
     font-size: var(--font-size-base);
