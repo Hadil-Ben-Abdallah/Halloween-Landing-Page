@@ -47,7 +47,7 @@ The goal was to build a visually stunning, festive landing page that captures th
 ## 👤 Author
 
 Hadil Ben Abdallah  
-🎓 Software Engineer | ✍🖋 Technical Content Creator | 📱 Social Media Content Creator  
+🎓 Software Engineer | 🖋 Technical Content Creator | 📱 Social Media Content Creator  
 [🌐 Portfolio](https://hadilbenabdallah.vercel.app/) | [👩🏻‍💼 LinkedIn](https://www.linkedin.com/in/hadil-ben-abdallah/) | [📝 Dev.to](https://dev.to/hadil)
 
 ---
