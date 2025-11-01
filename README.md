@@ -4,7 +4,7 @@ A sleek, spooky, and fully responsive Halloween Landing Page built for the Dev.t
 
 ## 🚀 Live Preview
 
-🔗 [View Live Page](https://halloweenpartyevent.netlify.app/)
+🔗 [View Live Page](https://halloweenparty-sigma.vercel.app/)
 
 ---
 
