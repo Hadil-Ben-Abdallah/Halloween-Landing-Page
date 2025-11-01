@@ -24,7 +24,7 @@ A sleek, spooky, and fully responsive Halloween Landing Page built for the Dev.t
 | ---------- | ------------------------ |
 | Frontend   | ![Tech Stack](https://skillicons.dev/icons?i=html,css,js) |
 | Framework      | None               |
-| Deployment | Netlify                  |
+| Deployment | Vercel                  |
 
 ---
 
