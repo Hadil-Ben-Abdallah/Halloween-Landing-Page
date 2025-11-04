@@ -223,6 +223,12 @@ nav {
 /* ╚═════════════════════════════╝ */
 
 @media (max-width: 768px) {
+  body {
+    padding-top: 120px;
+  }
+  header {
+    position: fixed;
+  }
   .menu-toggle {
     display: flex;
     flex-direction: column;
@@ -296,14 +302,6 @@ nav {
   .logo {
     width: 200px;
     height: auto;
-  }
-
-  header {
-    position: fixed;
-  }
-
-  body {
-    padding-top: 120px;
   }
 }
 
