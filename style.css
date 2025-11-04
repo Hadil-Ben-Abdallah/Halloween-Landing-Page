@@ -265,7 +265,7 @@ nav {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 24px;
+    gap: 30px;
     padding: 40px 0;
     transform: translateX(100%);
     opacity: 0;
@@ -297,9 +297,20 @@ nav {
     width: 200px;
     height: auto;
   }
+
+  header {
+    position: fixed;
+  }
+
+  body {
+    padding-top: 120px;
+  }
 }
 
 @media (max-width: 480px) {
+  nav {
+    gap: 24px;
+  }
   .nav-btn {
     font-size: 18px;
   }
