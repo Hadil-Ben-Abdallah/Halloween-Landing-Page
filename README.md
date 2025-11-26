@@ -63,6 +63,7 @@ Hadil Ben Abdallah
 If you like this project:
 
 ⭐️ Star the repo  
+🤍 Sponsor the project
 🔁 Share it with others  
 🛠️ Fork it and build your version!
 
